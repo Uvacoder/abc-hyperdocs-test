@@ -157,6 +157,8 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 
     // console.log(allFiles);
 
+    // todo: spell check content and alert users via email
+
     let sidebar;
 
     try {
